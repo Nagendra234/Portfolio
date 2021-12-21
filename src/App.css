@@ -1,0 +1,14 @@
+  hr {
+    border: 0;
+    height: 1px;
+  }
+  body{
+    background-color: rgba(0, 0, 0, 0.75);
+  }
+  .container-box {
+    width: 80%;
+    background-color: transparent;
+    position: relative;
+    z-index: 9;
+  }
+

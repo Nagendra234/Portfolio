@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.972f5acc.chunk.css",
+    "main.js": "/static/js/main.044f5634.chunk.js",
+    "main.js.map": "/static/js/main.044f5634.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2c43939e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2c43939e.js.map",
+    "static/js/2.69688391.chunk.js": "/static/js/2.69688391.chunk.js",
+    "static/js/2.69688391.chunk.js.map": "/static/js/2.69688391.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.16e3441277e278a38defd412d0e24708.js": "/precache-manifest.16e3441277e278a38defd412d0e24708.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.972f5acc.chunk.css.map": "/static/css/main.972f5acc.chunk.css.map",
+    "static/js/2.69688391.chunk.js.LICENSE.txt": "/static/js/2.69688391.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-4.svg": "/static/media/bootstrap-4.ffded238.svg",
+    "static/media/crm1.jpg": "/static/media/crm1.30c8ff03.jpg",
+    "static/media/css3.svg": "/static/media/css3.3707da3c.svg",
+    "static/media/ecom.png": "/static/media/ecom.3acf207a.png",
+    "static/media/game.jpg": "/static/media/game.76b8a03f.jpg",
+    "static/media/git-icon.svg": "/static/media/git-icon.1190a19c.svg",
+    "static/media/html-5.svg": "/static/media/html-5.676e8188.svg",
+    "static/media/javascript.svg": "/static/media/javascript.2d2e31cc.svg",
+    "static/media/material-ui-1.svg": "/static/media/material-ui-1.82291019.svg",
+    "static/media/profile.png": "/static/media/profile.749be178.png",
+    "static/media/python.svg": "/static/media/python.146716bd.svg",
+    "static/media/react-bootstrap.svg": "/static/media/react-bootstrap.ef194ddf.svg",
+    "static/media/react.svg": "/static/media/react.4009eef3.svg",
+    "static/media/redux.svg": "/static/media/redux.aa0a3376.svg",
+    "static/media/slide1.webp": "/static/media/slide1.8bce7aef.webp",
+    "static/media/slide2.webp": "/static/media/slide2.7256f309.webp",
+    "static/media/styled-components.svg": "/static/media/styled-components.9ceedb83.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c43939e.js",
+    "static/js/2.69688391.chunk.js",
+    "static/css/main.972f5acc.chunk.css",
+    "static/js/main.044f5634.chunk.js"
+  ]
+}
